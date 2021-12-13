@@ -1,7 +1,7 @@
 name: Periodic workflow test
 on:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '7 11 * * *'
   workflow_dispatch:
 jobs:
   test:
