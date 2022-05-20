@@ -8,3 +8,5 @@ package. In addition, this workflow uses ivar also to identify amplicons
 affected by ARTIC primer-binding site mutations and, if possible, excludes
 reads derived from such "tainted" amplicons when calculating allele-frequencies
 of other variants.
+
+This line added for testing purposes.
